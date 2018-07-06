@@ -30,8 +30,8 @@ int main(int argc,char *argv[]){
     label2 = gtk_label_new("Label 2");
     label3 = gtk_label_new("Label 3");
 
-    hbox = gtk_box_new(TRUE,5);
-    vbox = gtk_box_new(FALSE,10);
+    hbox = gtk_box_new(GTK_ORIENTATION_HORIZONTAL,5);
+    vbox = gtk_box_new(GTK_ORIENTATION_VERTICAL,10);
     
     gtk_box_pack_start(GTK_BOX(vbox),label1,TRUE,FALSE,5);
     gtk_box_pack_start(GTK_BOX(vbox),label2,TRUE,FALSE,5);
