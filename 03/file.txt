@@ -1,0 +1,9 @@
+total 115
+drwxr-xr-x 1 Qi 197121     0 五月  2 11:52 [0m[01;34m.[0m/
+drwxr-xr-x 1 Qi 197121     0 五月  2 11:28 [01;34m..[0m/
+-rw-r--r-- 1 Qi 197121    52 五月  2 11:52 cat
+-rw-r--r-- 1 Qi 197121     0 五月  2 11:52 dfaft1.txt
+-rw-r--r-- 1 Qi 197121   279 五月  2 11:48 simple_read.c
+-rwxr-xr-x 1 Qi 197121 53353 五月  2 11:48 [01;32msimple_read.exe[0m*
+-rw-r--r-- 1 Qi 197121   181 五月  2 11:40 simple_write.c
+-rwxr-xr-x 1 Qi 197121 53180 五月  2 11:40 [01;32msimple_write.exe[0m*
